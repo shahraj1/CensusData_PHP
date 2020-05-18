@@ -1,6 +1,3 @@
- <!-- Name: Raj Shah 
-	  Class:IT-140 PHP & mySQL
-	  Abstract: Creating Databases -->
 <html>
 
 
